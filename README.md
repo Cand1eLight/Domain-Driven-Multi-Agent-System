@@ -28,8 +28,7 @@ A personal dual-track AI Agent workflow station for travel planning and IELTS tr
 
 *(💡提示：小米审核老师，请看以下原生部署截图证明)*
 
-![系统主界面与 Agent 调度过程](screenshot1.png)
-*(注：如果您刚才上传的截图名字不是 screenshot1.png，请在这里修改为您实际上传的图片文件名)*
+![系统主界面与 Agent 调度过程](https://204180371.xyz/PicGo/20260507142336785.png)
 
 ## 🛠️ 快速启动
 
